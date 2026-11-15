@@ -1,5 +1,5 @@
 ---
-name: tdd
+name: principle-test-driven-development
 description: Test-driven development. Use when the user wants to build features or fix bugs test-first, mentions "tdd", or wants integration tests.
 ---
 
