@@ -4,10 +4,9 @@ description: Use before writing, changing, or reviewing code in this repo — fe
 ---
 
 At the start of a code-change task:
-1. Read the index below. Pick at most 3 principles that apply and read the corresponding files. Picking none is valid for trivial edits.
-2. Open the chosen files in their respective locations.
+1. Read the principles below. Pick at most 3 principles that apply and read the corresponding files. Picking none is valid for trivial edits.
+2. Read the chosen principles in their respective files.
 3. In the final reply, for each principle used, state the specific decision it changed. Naming a principle without a changed decision does not count.
-
 
 **Core**
 
